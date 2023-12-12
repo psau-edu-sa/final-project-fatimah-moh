@@ -20,14 +20,14 @@ we used graphs to design user interface models and as,
 
 ## Topics mentioned in the project:
 
--Introduction to Telegram
--Problems that the application solves
--Background about the application company
--suggested solutions
+- Introduction to Telegram
+- Problems that the application solves
+- Background about the application company
+- suggested solutions
 - Work plan, project stages and milestones
 - Project Requirements
--Activity diagram
--Project Use Case Modeling
--Creating Sequence Diagrams
--Creating a Class Diagram 
--References
+- Activity diagram
+- Project Use Case Modeling
+- Creating Sequence Diagrams
+- Creating a Class Diagram 
+- References
